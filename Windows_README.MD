@@ -60,6 +60,9 @@ Potential Installation Issues
 ----------------------------------------
 
 Tensorflow install issues for Windows
+
+Warning: Tensorflow debugging is not implemented on Windows yet.
+
    
 We need a MSVCP140.DLL file to use tensorflow through python in Windows.
 This file can be installed during the installation of Visual C++ 2015

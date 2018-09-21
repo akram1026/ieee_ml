@@ -6,3 +6,4 @@ jupyter
 requests
 wget
 ipynb
+tensorflow

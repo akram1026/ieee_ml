@@ -15,7 +15,7 @@ Install git scm and bash shell.
 --------------------------------------------------
 
 1. Use command
-	$ pip3 install --upgrade tensorflow
+	($ pip3 install --upgrade tensorflow)  
 this will install tensorflow
 (For now install only cpu version. If you would like GPU version, better to use nv-docker images provided by Nvidia)
 

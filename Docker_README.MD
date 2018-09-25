@@ -61,9 +61,13 @@ $ docker pull kgunnamieee/mlw
 
 Section II. Executing the code
 ----------------------------------------------------------------------------------------------------------------
-To execute the code enter the following command
+To execute the code enter the following command (PLease select one of them based on the step one you have taken)
 
-			docker run -p 8888:8888 -p 6006:6006 -p 6064:6064 mlw 
+	(This is for Docker Building)     docker run -p 8888:8888 -p 6006:6006 -p 6064:6064 mlw 
+
+	OR
+	
+	(This is for Docker Pull)         docker run -p 8888:8888 -p 6006:6006 -p 6064:6064   kgunnamieee/mlw                            
 
 
 Now, open the following link
